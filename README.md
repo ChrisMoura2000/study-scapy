@@ -8,6 +8,7 @@ A ideia aqui é aprender a usar a biblioteca scapy, para isso vou começar fazen
 As fontes detalham o **Scapy**, uma biblioteca **Python** versátil projetada para a **manipulação**, **envio** e **captura** de pacotes em redes de computadores. O conteúdo explora funcionalidades essenciais, como o uso da função **sniff()** para monitoramento de tráfego e a análise de arquivos **pcap** para exames detalhados. Explicações teóricas abordam o modelo de **camadas de rede** e protocolos fundamentais, incluindo **ARP**, **ICMP**, **DNS** e **DHCP**. Além de servir como um guia técnico com exemplos de código, o material destaca o papel da ferramenta em **testes de penetração** e auditorias de segurança. Por fim, os textos enfatizam como o Scapy permite forjar pacotes personalizados para diagnosticar vulnerabilidades ou entender a comunicação entre dispositivos.
 
 ## Propriedades de cada frame
+Aqui eu misturei algumas definições do livro *Análise de tráfego em redes TCP/IP* de Eriberto Mota com as propriedades do sacapy
 
 ### Ethernet
 
